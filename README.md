@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/822793198.svg)](https://zenodo.org/doi/10.5281/zenodo.12680418)
+
 # ConvertFrames2OneHotFormat
 I extract frames from a video using FFmpeg and identify interesting behaviors frame-by-frame. I then use the Jupyter script provided here to parse out the frame numbers and create an annotation CSV, which can be imported into our A-SOID project.
 
